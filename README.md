@@ -17,8 +17,8 @@ A lightweight Laravel-based web application where job seekers can apply to poste
 
 1. **Clone the Repository**
    
-   git clone https://github.com/your-username/job-application-portal.git
-   cd job-application-portal
+   git clone https://github.com/your-username/job-portal.git
+   cd job-portal
 
 2. **Install PHP Dependencies**
 
